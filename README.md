@@ -1,4 +1,4 @@
-# !!!!!!!(CHECK RELEASE TO DOWNLOAD ALL THE ZIP FILES)!!!!!!!!
+# !!!!!!!(CHECK 'RELEASE' TO DOWNLOAD ALL THE ZIP FILES)!!!!!!!!
 # COS40007 Artificial Intelligence for Engineering - Portfolio Assessments 
 
 ## Overview

@@ -1,4 +1,5 @@
-# COS40007 Artificial Intelligence for Engineering - Portfolio Assessments
+# !!!!!!!(CHECK RELEASE TO DOWNLOAD ALL THE ZIP FILES)!!!!!!!!
+# COS40007 Artificial Intelligence for Engineering - Portfolio Assessments 
 
 ## Overview
 This repository contains the portfolio assessments for COS40007 Artificial Intelligence for Engineering. Each portfolio covers different machine learning and deep learning tasks, progressing from fundamental data analysis to deep learning model development using various techniques. 
